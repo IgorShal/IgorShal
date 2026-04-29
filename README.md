@@ -90,26 +90,6 @@ Backend for a digital library system with document storage, search and API layer
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🧩 What I'm interested in
-
-- Python backend development
-- FastAPI services
-- Computer vision systems
-- Industrial automation
-- Software architecture
-- Systems where algorithms meet real hardware
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorShal&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorShal&layout=compact&theme=transparent)
-
----
 
 ## 📫 Contact
 
